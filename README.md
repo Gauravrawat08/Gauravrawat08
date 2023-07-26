@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gauravrawat08
+- 👋 Hi, I’m Gaurav Rawat 
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...Front end development
 - 💞️ I’m looking to collaborate on ...
